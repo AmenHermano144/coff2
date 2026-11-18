@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-11-18 18:38:00.790677600 UTC
+// 2026-11-18 23:41:31.344588700 UTC
 
 namespace CS2Dumper.Offsets {
     // Module: client.dll
@@ -13,9 +13,11 @@ namespace CS2Dumper.Offsets {
         public const nint dwGlowManager = 0x2553B90;
         public const nint dwLocalPlayerController = 0x252ED78;
         public const nint dwLocalPlayerPawn = 0x2557538;
+        public const nint dwPlantedC4 = 0x24BD9E8;
         public const nint dwPrediction = 0x2557440;
-        public const nint dwSensitivity = 0x25546C8;
+        public const nint dwSensitivity = 0x2554648;
         public const nint dwSensitivity_sensitivity = 0x58;
+        public const nint dwServerConfirmedReservation = 0x256E1C8;
         public const nint dwViewAngles = 0x256D668;
         public const nint dwViewMatrix = 0x255CE50;
         public const nint dwViewRender = 0x255D818;

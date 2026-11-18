@@ -1,6 +1,5 @@
-18:38:00 [INFO] found 16 buttons
-18:38:00 [INFO] found 112 interfaces across 32 modules
-18:38:00 [ERROR] outdated pattern: dwPlantedC4
-18:38:00 [INFO] found 31 offsets across 5 modules
-18:38:00 [INFO] found 3300 classes and 569 enums across 18 modules
-18:38:00 [INFO] analysis completed in 892.34ms
+23:41:30 [INFO] found 16 buttons
+23:41:30 [INFO] found 112 interfaces across 32 modules
+23:41:31 [INFO] found 33 offsets across 5 modules
+23:41:31 [INFO] found 3300 classes and 569 enums across 18 modules
+23:41:31 [INFO] analysis completed in 866.15ms
